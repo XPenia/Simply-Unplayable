@@ -1,0 +1,8 @@
+cfg/config.cfg
+maps/graphs/*
+maps/soundcache/*
+screenshots/*
+*.cache
+stats.txt
+tilegen_log.txt
+voice_ban.dt
