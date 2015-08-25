@@ -6,3 +6,6 @@ screenshots/*
 stats.txt
 tilegen_log.txt
 voice_ban.dt
+cfg/video.txt
+cfg/videodefaults.txt
+bin/*
