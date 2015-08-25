@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5032"
-	"mapversion" "534"
+	"mapversion" "542"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,12 +20,12 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "534"
+	"mapversion" "542"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "sky_day02_10"
+	"skyname" "sky_wasteland02"
 	solid
 	{
 		"id" "36"
@@ -4289,7 +4289,7 @@ world
 		{
 			"id" "1170"
 			"plane" "(-284 268 124) (-164 268 124) (-164 284 124)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR008A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -4300,7 +4300,7 @@ world
 		{
 			"id" "1169"
 			"plane" "(-164 284 128) (-164 284 124) (-164 268 124)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR008A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -4311,7 +4311,7 @@ world
 		{
 			"id" "1168"
 			"plane" "(-284 284 124) (-164 284 124) (-164 284 128)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR008A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -4322,7 +4322,7 @@ world
 		{
 			"id" "1167"
 			"plane" "(-284 284 128) (-164 284 128) (-164 268 128)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR008A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -4333,7 +4333,7 @@ world
 		{
 			"id" "1166"
 			"plane" "(-164 268 128) (-164 268 124) (-284 268 124)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR008A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -4344,7 +4344,7 @@ world
 		{
 			"id" "1165"
 			"plane" "(-284 268 124) (-284 284 124) (-284 284 128)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR008A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -5277,7 +5277,7 @@ world
 		{
 			"id" "1602"
 			"plane" "(1920 1146 64) (1920 1408 64) (2176 1408 64)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR027A"
 			"uaxis" "[1 0 0 0] 0.03125"
 			"vaxis" "[0 -1 0 0] 0.03125"
 			"rotation" "0"
@@ -5288,7 +5288,7 @@ world
 		{
 			"id" "1601"
 			"plane" "(1920 1408 56) (1920 1146 56) (2176 1146 56)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR027A"
 			"uaxis" "[1 0 0 0] 0.03125"
 			"vaxis" "[0 -1 0 0] 0.03125"
 			"rotation" "0"
@@ -5299,7 +5299,7 @@ world
 		{
 			"id" "1600"
 			"plane" "(1920 1146 56) (1920 1408 56) (1920 1408 64)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR027A"
 			"uaxis" "[0 1 0 0] 0.03125"
 			"vaxis" "[0 0 -1 0] 0.03125"
 			"rotation" "0"
@@ -5310,7 +5310,7 @@ world
 		{
 			"id" "1599"
 			"plane" "(2176 1408 56) (2176 1146 56) (2176 1146 64)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR027A"
 			"uaxis" "[0 1 0 0] 0.03125"
 			"vaxis" "[0 0 -1 0] 0.03125"
 			"rotation" "0"
@@ -5321,7 +5321,7 @@ world
 		{
 			"id" "1598"
 			"plane" "(1920 1408 56) (2176 1408 56) (2176 1408 64)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR027A"
 			"uaxis" "[1 0 0 0] 0.03125"
 			"vaxis" "[0 0 -1 0] 0.03125"
 			"rotation" "0"
@@ -5332,7 +5332,7 @@ world
 		{
 			"id" "1597"
 			"plane" "(2176 1146 56) (1920 1146 56) (1920 1146 64)"
-			"material" "CONCRETE/CONCRETEFLOOR005A"
+			"material" "CONCRETE/CONCRETEFLOOR027A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9083,6 +9083,168 @@ world
 }
 entity
 {
+	"id" "10566"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/machinery/crane/base.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "688 540 60.25"
+	editor
+	{
+		"color" "119 228 0"
+		"groupid" "10839"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -10268]"
+	}
+}
+entity
+{
+	"id" "10613"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/machinery/crane/supportbase.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "688 540 252"
+	editor
+	{
+		"color" "119 228 0"
+		"groupid" "10839"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -10268]"
+	}
+}
+entity
+{
+	"id" "10664"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/machinery/crane/support01.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "688 540 384"
+	editor
+	{
+		"color" "119 228 0"
+		"groupid" "10839"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -10268]"
+	}
+}
+entity
+{
+	"id" "10776"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/machinery/crane/support01.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "688 538 516"
+	editor
+	{
+		"color" "119 228 0"
+		"groupid" "10839"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -10268]"
+	}
+}
+entity
+{
+	"id" "1319"
+	"classname" "prop_dynamic"
+	"angles" "0 50 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props/machinery/crane/arm.mdl"
+	"modelscale" "1.0"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "6"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "crane_model"
+	"origin" "700 552 648"
+	editor
+	{
+		"color" "119 228 0"
+		"groupid" "10839"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -10268]"
+	}
+}
+entity
+{
 	"id" "6"
 	"classname" "env_fog_controller"
 	"angles" "0 0 0"
@@ -9114,7 +9276,7 @@ entity
 	"id" "26"
 	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"origin" "-488 -416 16"
+	"origin" "-528 -416 24"
 	editor
 	{
 		"color" "0 255 0"
@@ -9221,7 +9383,7 @@ entity
 	"angles" "0 0 0"
 	"StartDisabled" "0"
 	"TeamNum" "0"
-	"origin" "-488 -320 16"
+	"origin" "-528 -320 32"
 	editor
 	{
 		"color" "220 30 220"
@@ -18403,168 +18565,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 13000]"
-	}
-}
-entity
-{
-	"id" "10566"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props/machinery/crane/base.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "688 540 60.25"
-	editor
-	{
-		"color" "119 228 0"
-		"groupid" "10839"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -10268]"
-	}
-}
-entity
-{
-	"id" "10613"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props/machinery/crane/supportbase.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "688 540 252"
-	editor
-	{
-		"color" "119 228 0"
-		"groupid" "10839"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -10268]"
-	}
-}
-entity
-{
-	"id" "10664"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props/machinery/crane/support01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "688 540 384"
-	editor
-	{
-		"color" "119 228 0"
-		"groupid" "10839"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -10268]"
-	}
-}
-entity
-{
-	"id" "10776"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props/machinery/crane/support01.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "688 538 516"
-	editor
-	{
-		"color" "119 228 0"
-		"groupid" "10839"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -10268]"
-	}
-}
-entity
-{
-	"id" "1319"
-	"classname" "prop_dynamic"
-	"angles" "0 50 0"
-	"DisableBoneFollowers" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"maxdxlevel" "0"
-	"MinAnimTime" "5"
-	"mindxlevel" "0"
-	"model" "models/props/machinery/crane/arm.mdl"
-	"modelscale" "1.0"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"SetBodyGroup" "0"
-	"skin" "0"
-	"solid" "6"
-	"spawnflags" "0"
-	"StartDisabled" "0"
-	"targetname" "crane_model"
-	"origin" "700 552 648"
-	editor
-	{
-		"color" "119 228 0"
-		"groupid" "10839"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -10268]"
 	}
 }
 entity
