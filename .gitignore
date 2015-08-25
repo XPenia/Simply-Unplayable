@@ -1,13 +1,15 @@
+addons/*
+cache/*
 cfg/config.cfg
+cfg/video.txt
+#cfg/video.bak # ???
+download/*
+downloadlists/*
 maps/graphs/*
 maps/soundcache/*
 screenshots/*
 *.cache
+*.tmp
 stats.txt
 tilegen_log.txt
 voice_ban.dt
-cfg/video.txt
-cfg/videodefaults.txt
-cfg/video.bak
-demoheader.tmp
-bin/*
