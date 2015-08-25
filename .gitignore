@@ -8,4 +8,6 @@ tilegen_log.txt
 voice_ban.dt
 cfg/video.txt
 cfg/videodefaults.txt
+cfg/video.bak
+demoheader.tmp
 bin/*
