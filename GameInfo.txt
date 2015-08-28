@@ -1,25 +1,37 @@
 "GameInfo"
 {
-	game		"(CSimpleGame*)pUnplayable"
-	title		"    "	// asw - leave this blank as we have a texture logo
-	type		multiplayer_only
-	GameData	swarm.fgd
-	InstancePath	tilegen/instances/
+	game			"(CSimpleGame*)pUnplayable"
+	title			"    "
+	type			multiplayer_only
+	icon			resource/game	//The icon must be an uncompressed TGA 16x16 pixels in size.
+									//For transparency to work, the TGA must be saved in 32-bit
+									//mode with an active alpha channel.
+									//The path is relative to the mod's installation directory
+									//(i.e where GameInfo.txt is) and should not include
+									//the TGA file extension
+	developer		"XPenia Team"
+	developer_url	http://www.xpenia.org/
 	
-	SupportsDX8     0
+	GameData		su.fgd
+	InstancePath	maps/instances/
 	
-	"FileSystem"
+	nodifficulty	1
+	supportsvr		0
+	SupportsDX8		0
+	
+	FileSystem
 	{
 		SteamAppId			630
 		ToolsAppId			211
+		AdditionalContentId	243750
 		
 		SearchPaths
 		{
-			Game		|gameinfo_path|.
-			Game		swarm
-			Game		swarm_tempcontent
-			Game		swarm_base
-			Game		platform
+			game			|gameinfo_path|.
+			game			swarm
+			game			swarm_tempcontent
+			game			swarm_base
+			game			platform
 		}
 	}
 }
