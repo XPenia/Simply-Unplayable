@@ -5,6 +5,6 @@
 	"$surfaceprop" "metal"
 	"%keywords" "c17industrial,wasteland"
 
-	$PHONG_SCALE	0.8
-	$PHONG_EXP		1
+	$PHONG_SCALE	1
+	$PHONG_EXP		0.8
 }
