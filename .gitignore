@@ -1,5 +1,6 @@
 addons/*
 cache/*
+cfg/autoexec.cfg
 cfg/config.cfg
 cfg/video.txt
 cfg/videodefaults.txt
