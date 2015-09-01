@@ -1,2 +1,9 @@
 @include "swarmbase.fgd"
 @include "deferred.fgd"
+
+@SolidClass base(Trigger) = trigger_jumppad : ""
+[
+	target(target_destination) : "Target" : "" : ""
+	m_flMinHeight(float) : "Min Height" : "128" : "" 
+	alternateticksfix(float) : "" : "0" : "" 
+]
